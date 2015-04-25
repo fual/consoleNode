@@ -14,5 +14,8 @@
     "console"
   ],
   "author": "a.khlebaev",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.0.3"
+  }
 }
