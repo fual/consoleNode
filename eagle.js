@@ -18,7 +18,7 @@ var Eagle = (function () {
         //
         var randomAnswer = Math.floor(2 * Math.random()),
             answerText = '',
-            result;
+            result = 0;
 
         if (answer === '0' || answer === '1') {
             if (answer == randomAnswer) {

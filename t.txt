@@ -8,4 +8,14 @@
 0
 0
 0
+01
+undefined
+undefined
+1
 0
+0
+0
+1
+1
+0
+undefined
