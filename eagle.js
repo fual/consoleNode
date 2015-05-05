@@ -3,6 +3,7 @@
  * угадывать выпадающее число (0 или 1)
  * В качестве параметра можно указать файл
  *
+ *
  */
 var readline = require('readline'),
     colors = require('colors'),
